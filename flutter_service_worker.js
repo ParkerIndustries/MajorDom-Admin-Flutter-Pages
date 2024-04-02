@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"index.html": "a4a8c2efb6ad451b80a72ba835474708",
-"/": "a4a8c2efb6ad451b80a72ba835474708",
+const RESOURCES = {"index.html": "6dfea6a585b73402040ae627c9e31ca1",
+"/": "6dfea6a585b73402040ae627c9e31ca1",
 "canvaskit/canvaskit.js": "eb8797020acdbdf96a12fb0405582c1b",
 "canvaskit/skwasm.js": "87063acf45c5e1ab9565dcf06b0c18b8",
 "canvaskit/skwasm.wasm": "2fc47c0a0c3c7af8542b601634fe9674",
@@ -18,7 +18,7 @@ const RESOURCES = {"index.html": "a4a8c2efb6ad451b80a72ba835474708",
 "assets/AssetManifest.bin.json": "2bd483d21264bc98c94e7237b626043d",
 "assets/assets/fonts/MajorDom.ttf": "cb629637278304958b6d8b8c1990e1ae",
 "assets/AssetManifest.bin": "954bbd9a4dbfdf0b69ee0da086de8eeb",
-"assets/NOTICES": "ff9282b137e54ee1020bf51517776fef",
+"assets/NOTICES": "1369cca2fd5e20bb82e346f61eac8f42",
 "assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b45276bd90f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "9cda082bd7cc5642096b56fa8db15b45",
@@ -33,7 +33,7 @@ const RESOURCES = {"index.html": "a4a8c2efb6ad451b80a72ba835474708",
 "manifest.json": "a28348c811e7a5b24b0c1a9db984df48",
 "CNAME": "1941aa13ba04e8cb2fcd2acfc134a8f9",
 "flutter.js": "7d69e653079438abfbb24b82a655b0a4",
-"main.dart.js": "676d48fb1fd9e9c865466f13400b83de",
+"main.dart.js": "fa98bbce6cd8af822fd4f55a1da7b386",
 "favicon.jpeg": "eb711d442d61b7dd255e1a51cad2748e"};
 // The application shell files that are downloaded before a service worker can
 // start.
